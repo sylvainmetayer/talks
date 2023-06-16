@@ -1,0 +1,7 @@
+= Abstract
+
+Quand l'on parle de notre $HOME sur Linux/MacOS, nous avons tous nos préférences, que cela soit notre éditeur de texte (le débat vim/emacs fait toujours rage), le prompt customisé, nos logiciels favoris... Et nous y tenons !
+
+A nos clients, nous recommandons toujours de prévoir une sauvegarde. Mais si demain votre poste de travail rend l'âme, combien de temps estimez-vous qu'il vous faudra pour reconfigurer votre joli ZSH avec ses 50 plugins, votre config vim aux petits oignons, votre configuration SSH avec la vingtaine d'hosts configuré, retrouver le nom de tous ces outils qui vous sont cher, ou encore tous ces alias fort utiles dont vous abusez au quotidien ?
+
+Embarquons pour une découverte de quelques unes des façons de sauvegarder votre configuration !

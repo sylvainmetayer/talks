@@ -1,0 +1,19 @@
+= SunnyTech
+
+include::abstract.adoc[leveloffset=1]
+
+== Plan
+
+Format : 20min
+
+- dotfiles - Définition : 1min
+- Méthode 1 - stow : 2min
+- Méthode 2 - ansible: pour aller plus loin que les dotfiles: 15min
+* Installation/setup
+* Copie de fichier/liens symboliques
+* Gestion secrets
+* Installation software
+* Templating
+- Conclusion: 1min
+- Questions : 1min
+

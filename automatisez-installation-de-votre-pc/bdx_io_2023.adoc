@@ -1,0 +1,28 @@
+= DevFest Nantes
+
+include::abstract.adoc[leveloffset=1]
+
+
+== Plan
+
+Format : 15min
+
+Plan :
+
+- dotfiles - Définition : 1min
+- Le copier coller et prier : 1min
+- stow : 1min
+- script maison : 1min
+- ansible: pour aller plus loin que les dotfiles: 10min
+  - Installation/setup
+  - Copie de fichier/liens symboliques
+  - Gestion secrets
+  - Installation software
+  - Templating
+- Conclusion / Questions: 1min
+
+Ce sujet va être donné une première fois à SunnyTech 2023. Slides et démo disponibles sur Github
+
+https://sylvainmetayer.github.io/talk-automatisez-installation-de-votre-pc/
+
+https://github.com/sylvainmetayer/talk-automatisez-installation-de-votre-pc
