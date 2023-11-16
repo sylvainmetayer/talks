@@ -1,0 +1,15 @@
+= Abstract
+
+Let's go back a few years...
+
+August 2020, release of Terraform 0.13, your new project jumps on it and uses it!
+
+June 2021, release of Terraform 1.0, just in time to deploy this new infra, perfect! For your old project, however, it's a breaking change: you'll have to install tfenv to manage the 2 versions...
+
+April 2022, release of NodeJS 18, perfect for starting your side-project! Too bad for your old JS library, stuck in NodeJS 14, you'll have to install nvm to manage the 2 versions, more time to update...
+
+Tired of having to install 50 different tools to change versions of node/java/terraform/... ?
+
+Would you like to find a tool to manage all your tool versions in the same way, or even create your own plug-ins to manage your new tool versions?
+
+Come and meet asdf, and let's see how it can help you on a daily basis!

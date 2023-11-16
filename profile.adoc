@@ -1,0 +1,38 @@
+= Profile
+
+== Bio
+Tech Lead à onepoint, je viens du monde PHP, j'aime la CI/CD et la conteneurisation, tout comme me simplifier la vie en automatisant mes tâches du quotidien.
+
+== Bio (en)
+
+Tech Lead at onepoint, I come from the PHP ecosystem, I like to tinker with CI/CD and containers, as well as trying to make my life easier by automating my dailies tasks.
+
+== References
+
+"Automatisez l'installation de votre poste de travail !"
+
+- Sunny Tech 2023 : <https://www.youtube.com/watch?v=u1Pvdbojl2Q> / <https://sylvainmetayer.github.io/talk-automatisez-installation-de-votre-pc>
+- BDX I/O 2023 : <https://www.youtube.com/live/SuxUw0Z5QZI?si=r51-KL22mUpmZdT0&t=16688> / <https://sylvainmetayer.github.io/talk-automatisez-installation-de-votre-pc-bdxio-2023/>
+
+"asdf, un outil pour toutes vos versions"
+
+- DevFest Nantes 2023 : <https://www.youtube.com/watch?v=i2AfuQAaALQ&t=109s> / <https://sylvainmetayer.github.io/talk-asdf/>
+
+"Terraform, REX d'un développeur"
+
+- Meetup Interne : <https://www.youtube.com/watch?v=GR_YJIfo8jg>
+
+== References (en)
+
+"Automatisez l'installation de votre poste de travail !" (FR) / "Automate the installation of your workstation!"
+
+- Sunny Tech 2023 (FR) : <https://www.youtube.com/watch?v=u1Pvdbojl2Q> / <https://sylvainmetayer.github.io/talk-automatisez-installation-de-votre-pc>
+- BDX I/O 2023 (FR) : <https://www.youtube.com/live/SuxUw0Z5QZI?si=r51-KL22mUpmZdT0&t=16688> / <https://sylvainmetayer.github.io/talk-automatisez-installation-de-votre-pc-bdxio-2023/>
+
+"asdf, un outil pour toutes vos versions" (FR) / "asdf, one tool to rule them all"
+
+- DevFest Nantes 2023 (FR) : <https://www.youtube.com/watch?v=i2AfuQAaALQ&t=109s> / <https://sylvainmetayer.github.io/talk-asdf/>
+
+"Terraform, REX d'un développeur" (FR) / "Terraform, feedback from a developer"
+
+- Meetup Interne : <https://www.youtube.com/watch?v=GR_YJIfo8jg>

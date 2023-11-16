@@ -1,0 +1,19 @@
+= asdf, un outil pour toutes vos versions
+
+include::abstract_en.adoc[leveloffset=1]
+
+== Plan
+
+TODO
+
+Format : 15min
+
+Plan:
+
+- Intro : 1min
+- asdf : présentation 2min
+- démo : ajout d'un plugin / installation de version d'un outil / changement de version : 7min
+- Création d'un plugin : 3min
+- Conclusion / Questions: 2min
+
+Ce sujet a déjà été donné au DevFest Nantes 2023.

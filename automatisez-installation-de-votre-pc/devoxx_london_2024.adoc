@@ -1,0 +1,25 @@
+= DevFest Nantes
+
+include::abstract_en.adoc[leveloffset=1]
+
+
+== Plan
+
+TODO
+
+Format : 15min
+
+Plan :
+
+- dotfiles - definition : 2min
+- stow : 1min
+- handmade script : 1min
+- ansible: let's go beyond  dotfiles: 10min
+  - Installation/setup
+  - File copy/symlink
+  - Handle secrets
+  - Software installation
+  - Templating
+- Conclusion / Q&A: 1min
+
+This talk have already been given in French at SunnyTech 2023 (FR) and BDX I/O 2023 (FR)
