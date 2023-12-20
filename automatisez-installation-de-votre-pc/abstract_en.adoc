@@ -1,7 +1,9 @@
-= Abstract
+= Automate your workstation installation !
 
-When we talk about our $HOME on Linux/MacOS, we all have a different word, wether it is our favorite editor (vim/emacs users always figthing), custom prompt, favorite softwares... And we stand by it !
+== Abstract
 
-We still recommand to our clients to keep a backup, and we make sure they have one. However, if your laptop suddenly (stop) working, how much time will it cost you to reconfigure this nicely ZSH prompt with 50 plugins, this handcrafted vim configuration, your (way too many) SSH hosts configured in your ssh config, retrieve the name of your beloved software, or theses handy aliases that you abuse everyday ?
+When we talk about our $HOME on Linux/MacOS, we all have a different opinion, whether it is our favourite editor (vim/emacs users always fighting), custom prompt, favourite software…​ And we stand by it !
 
-Let's go find out one, of many, way to backup your configuration and see how ansible could help you !
+We still recommand to our clients to keep a backup, and we make sure they have one. However, if your laptop suddenly stop working, how much time will it cost you to reconfigure this nicely ZSH prompt with 50 plugins, this handcrafted vim configuration, your (way too many) SSH hosts configured in your ssh config, retrieve the name of your beloved software, or theses handy aliases that you abuse everyday ?
+
+Let’s go find out one, of many, way to backup your configuration and see how ansible could help you !

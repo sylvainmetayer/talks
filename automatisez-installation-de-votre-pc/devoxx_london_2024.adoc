@@ -1,11 +1,9 @@
-= DevFest Nantes
+= Devoxx UK 2024
 
 include::abstract_en.adoc[leveloffset=1]
 
 
 == Plan
-
-TODO
 
 Format : 15min
 

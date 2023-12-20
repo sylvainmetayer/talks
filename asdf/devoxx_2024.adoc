@@ -1,0 +1,19 @@
+= Devoxx FR 2024
+
+include::abstract.adoc[leveloffset=1]
+
+== Plan
+
+Format : 30min avec démo
+
+Plan:
+
+- Intro : 1min
+- asdf : présentation 4min
+- démo : ajout d'un plugin / installation de version d'un outil / changement de version : 10min
+- Création d'un plugin : 6min
+- Gestion des versions de vos plugins - ASDF Plugin Manager : 4min
+- Alternatives : rtx / devenv : 3min
+- Conclusion / Questions: 2min
+
+Ce sujet a été donné une première fois au DevFest Nantes 2023.

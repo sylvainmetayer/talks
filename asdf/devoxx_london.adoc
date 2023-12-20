@@ -1,19 +1,19 @@
-= asdf, un outil pour toutes vos versions
+= Devoxx UK
 
 include::abstract_en.adoc[leveloffset=1]
 
 == Plan
 
-TODO
-
-Format : 15min
+Include live demo
 
 Plan:
 
 - Intro : 1min
-- asdf : présentation 2min
-- démo : ajout d'un plugin / installation de version d'un outil / changement de version : 7min
-- Création d'un plugin : 3min
-- Conclusion / Questions: 2min
+- asdf : introduction 4min
+- demo : add a plugin / install a version of a tool / switch version : 10min
+- Create your own plugin : 6min
+- Handle versions of your plugin with ASDF Plugin Manager : 4min
+- Alternatives : rtx / devenv : 3min
+- Conclusion / Q&A : 2min
 
-Ce sujet a déjà été donné au DevFest Nantes 2023.
+This talk have already been given in French at DevFest Nantes 2023 (FR)

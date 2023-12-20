@@ -1,4 +1,6 @@
-= Abstract
+= Automatiser l'installation de votre poste de travail !
+
+== Abstract
 
 Quand l'on parle de notre $HOME sur Linux/MacOS, nous avons tous nos préférences, que cela soit notre éditeur de texte (le débat vim/emacs fait toujours rage), le prompt customisé, nos logiciels favoris... Et nous y tenons !
 
