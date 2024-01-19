@@ -1,0 +1,19 @@
+= Sunny Tech 2024
+
+include::abstract.adoc[leveloffset=1]
+
+== Plan
+
+Format : 20min avec démo
+
+Plan :
+
+- présentation de l'outil: 2min
+- chiffrement / déchiffrement de données : 3min
+- backend de chiffrement : 5min
+    - Exemple avec age
+    - exemple avec AWS KMS
+- Gestion des destinaires (.sops.yaml) : 3min
+- Chiffrement partiel d'un fichier : 2min
+- Exiger plusieurs clés pour déchiffrer un fichier (Key groups) : 3min
+- Conclusion / Q&A / alternatives: 2min

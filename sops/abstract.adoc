@@ -1,3 +1,7 @@
 = SOPS, Passez un savon à vos secrets en clair !
 
-Chacun à ses secrets. Vos applications également. Cependant, tout comme nous avons droit à notre jardin secret, nos secrets aimeraient bien avoir leur petit coin ou ils peuvent indiquer leur données sensibles... Au vu de tous dans un dépôt Git consultable par toute votre équipe, cela s'annonce compliqué ? Venez voir comment SOPS peut vous aider, et vous pourrez ensuite passer un savon à quiconque pousse des secrets en clair sur vos dépôts !
+Chacun à ses secrets. Vos applications également.
+
+Cependant, tout comme nous avons droit à notre jardin secret, nos secrets aimeraient bien avoir leur petit coin ou ils peuvent indiquer leur données sensibles. Si vous n'avez pas de Secret Manager pour centraliser vos secrets, par choix ou non, ces derniers risquent de se retrouver à la vue de tous dans un dépôt Git, **en clair**.
+
+_Pas terrible me direz-vous._ Venez voir comment link:https://github.com/getsops/sops/[SOPS], un outil open source, peut vous aider, et vous pourrez ensuite passer un savon à quiconque pousse des secrets en clair sur vos dépôts !
