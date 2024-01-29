@@ -1,0 +1,15 @@
+= asdf, un outil pour toutes vos versions
+
+include::abstract.adoc[leveloffset=1]
+
+== Plan
+
+Format : 20min
+
+Plan:
+
+- Intro : 1min
+- asdf : présentation 2min
+- démo : ajout d'un plugin / installation de version d'un outil / changement de version : 10min
+- Création d'un plugin : 5min
+- Conclusion / Questions: 2min
