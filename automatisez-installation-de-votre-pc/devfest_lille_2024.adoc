@@ -1,0 +1,22 @@
+= DevFest Nantes
+
+include::abstract.adoc[leveloffset=1]
+
+
+== Plan
+
+Format : 20min
+
+Plan :
+
+- dotfiles - Définition : 1min
+- Le copier coller et prier : 1min
+- stow : 1min
+- script maison : 1min
+- ansible: pour aller plus loin que les dotfiles: 15min
+  - Installation/setup
+  - Copie de fichier/liens symboliques
+  - Gestion secrets
+  - Installation software
+  - Templating
+- Conclusion / Questions: 1min
